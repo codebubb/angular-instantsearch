@@ -114,7 +114,7 @@
     "core-js": "2.5.7",
     "css-loader": "0.28.11",
     "dev-novel": "0.0.6",
-    "eslint": "4.19.1",
+    "eslint": "5.5.0",
     "eslint-config-algolia": "13.1.0",
     "eslint-config-prettier": "2.9.0",
     "eslint-plugin-import": "2.13.0",
